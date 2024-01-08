@@ -7,4 +7,6 @@ In today’s fast-paced infrastructures, efficient parking management is require
 + Vania Agnes Djunaedy - 2602158531
 
 ## Directory
-1. 
++ linearsearch.py = contains the code for parking spot finder using linearsearch algorithm with bitmasking
++ bitwiseoperation.py = contains the code for parking spot finder using bitwise operation with bitmasking
++ benchmark.py = contains the code for benchmarking the linearsearch.py and bitwiseoperation.py files
